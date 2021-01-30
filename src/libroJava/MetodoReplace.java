@@ -7,7 +7,7 @@ public class MetodoReplace {
 		
 		String cadena = "No eres igual a los demas";
 		System.out.println("La cadena original es: " + cadena);
-		System.out.println("La cadena mdificada es: " + cadena.replace('a', '*') );
+		System.out.println("La cadena mdificada es: " + cadena.replace('l', '*') );
 
 	}
 
